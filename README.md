@@ -19,5 +19,4 @@ Projeto criado através da solicitação de Projeto integrador de banco de dados
 
 ## Autores
 | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dostoevskij_1872.jpg/800px-Dostoevskij_1872.jpg" width=115><br><sub>Lucas Pedroso</sub>](https://github.com/1lucaspedroso) |
-| :---: |
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dostoevskij_1872.jpg/800px-Dostoevskij_1872.jpg" width=115><br><sub>Gabriel Portal Bertollo</sub>](https://github.com/anderson-santos-dev)| | :---: |
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Dostoevskij_1872.jpg/800px-Dostoevskij_1872.jpg" width=115><br><sub>Gabriel Portal Bertollo</sub>](https://github.com/anderson-santos-dev)|
