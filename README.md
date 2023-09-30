@@ -11,7 +11,6 @@ Projeto criado através da solicitação de Projeto integrador de banco de dados
 * Node.js
 * JSON
 * SQL
-* PHP
 ## Documentação
 
 [Documentação](https://1drv.ms/x/s!AgfxsRIG3JWKgmeefdOsDnMowHGE?e=6559KV)
